@@ -7,6 +7,7 @@ namespace project1
 	{
 		public static void Main(string[] args)
 		{
+            Console.WriteLine();
 			Application.Init();
 			MainWindow win = new MainWindow();
 			win.Show();
